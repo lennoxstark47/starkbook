@@ -10,19 +10,32 @@ import './topbar.css';
 export default function Topbar() {
 	return (
 		<div className='topbarConatainer'>
-			<div className='topbarLeft'>
+			<div
+				className='topbarLeft'
+				// style={{ flex: '3' }}
+			>
 				<span className='logo'>starkbook</span>
 			</div>
-			<div className='topbarCenter'>
+			<div
+				className='topbarCenter'
+				// style={{ flex: '5' }}
+			>
 				<div className='searchbar'>
-					<Search classname='searchIcon' />
+					<Search
+						classname='searchIcon'
+						fontSize='small'
+						style={{ marginLeft: '10px' }}
+					/>
 					<input
 						placeholder='search for friends, posts or videos'
 						className='searchInput'
 					/>
 				</div>
 			</div>
-			<div className='topbarRight'>
+			<div
+				className='topbarRight'
+				// style={{ flex: '4' }}
+			>
 				<div className='topbarLinks'>
 					<span className='topbarLink'>
 						Homepage
