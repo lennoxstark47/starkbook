@@ -71,6 +71,162 @@ export default function Sidebar() {
 						</span>
 					</li>
 				</ul>
+				<button className='sidebarButton'>
+					Show More
+				</button>
+				<hr className='sidebarHr' />
+				<ul className='sidebarFriendList'>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+					<li className='sidebarFriend'>
+						<img
+							src='/assets/person/2.jpeg'
+							alt=''
+							className='sidebarFriendImg'
+						/>
+						<span className='sidebarFriendName'>
+							Twisam Stark
+						</span>
+					</li>
+				</ul>
 			</div>
 		</div>
 	);
